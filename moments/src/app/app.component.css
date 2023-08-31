@@ -6,12 +6,17 @@
     color: #444;
 }
 
-a{
-    text-decoration: none;
+/* a {
+    text-decoration: none;   so pegou quando coloquei no css da header
     color: #444;
     transition: .4s;
 }
 
 a:hover{
     color:#dec129;
+} */
+
+.container{
+    min-height: 65vh;
+    margin-top: 1em;
 }
