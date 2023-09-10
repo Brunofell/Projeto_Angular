@@ -40,4 +40,11 @@ input[type="submit"]:hover{
     background-color: transparent;
 }
 
-/**/
+/*ERRO NAS VALIDAÇÔES*/
+
+.validation-error p { /* eu não sei pra que serve o "p" ali ?????? */
+    color:#ff0000;
+    margin-top: 0.4em;
+    border-left: 3px solid #ff0000;
+    padding-left: 0.2em;
+}
